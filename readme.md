@@ -1,19 +1,25 @@
-# Mohit Birla
-## student_code :- fw19_0487
-### I have done my graduation in 2021 from DAVV university. I have no work experiense..
+# first project
 
-### Experiences and Education
-- graduation year - 2021
-- No work Experiences
-### Essential Leadership Skills and Practices 
-- Self-development.
-- Team development.
-- Strategic thinking and acting.
-- Ethical practice and civic-mindedness
-- Innovation
-### github profile
-- [mohitbirla20](https://github.com/mohitbirla20)
-### Masai School Student
-- I am Proud to be a student of MASAI SCHOOL.
-### Masai School
-![Masai School](https://dashboard.masaischool.com/static/media/masailogo.ab93bfe1.svg)
+made a package for learning
+
+[first_package](https://www.npmjs.com/package/@mohitbirla20/first_package);
+
+## Install
+```
+npm install @mohitbirla20/first_package
+```
+## Usage
+
+```js
+var sum = require("@mohitbirla20/first_package")
+
+var res = sum(5,6)
+```
+
+### API
+```
+sum(a:number,b:number) => number
+```
+
+### Maintainers
+[mohitbirla20]("https://github.com/mohitbirla20")
